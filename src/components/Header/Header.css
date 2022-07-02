@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    position: fixed;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #2f383f;
+    font-size: 5vw;
+    font-family: "Montserrat", sans-serif;
+    box-shadow: 0px 1px 5px black;
+    z-index: 100;
+    color: white;
+}
