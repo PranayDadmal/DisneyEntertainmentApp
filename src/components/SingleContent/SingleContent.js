@@ -3,6 +3,7 @@ import './SingleContent.css';
 import {img_300, unavailable} from '../../config/config'
 import { Badge } from '@mui/material';
 
+
 const SingleContent = ({id, media_type, poster, date, title, vote_average}) => {
   return (
     <div className="media">
